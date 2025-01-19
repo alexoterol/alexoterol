@@ -7,6 +7,8 @@
     <a href="https://alexoterol.github.io/freelancer-portfolio-template/"><img src="https://i.pinimg.com/736x/b9/99/db/b999dbeecbadc0974952df49297e843b.jpg" alt="My banner" height="400"></a>
 </div>
 
+<br>
+
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)
