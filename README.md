@@ -2,6 +2,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=500&size=30&duration=3500&pause=500&color=5E9A76&center=true&width=435&lines=Hi+there+I'm+Alex+%F0%9F%91%8B;Computer+Science+Student;Full-Stack+Engineer;Problem+Solver;Freelancer" alt="Typing SVG" /></a>
 </div>
 
+---
 
 <div align=center>
     <a href="https://alexoterol.github.io/freelancer-portfolio-template/"><img src="https://i.pinimg.com/736x/b9/99/db/b999dbeecbadc0974952df49297e843b.jpg" alt="My banner" height="350"></a>
@@ -17,6 +18,8 @@
     ![Static Badge](https://img.shields.io/badge/Netbeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=ffffff)
     ![Static Badge](https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)
 </div>
+
+---
 
 ## Personal Information
 * Name: Alex Otero Limones
