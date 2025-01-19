@@ -1,24 +1,10 @@
-<h1><>
-
 ##  Personal Portfolio
 
-Here, you'll find all my proyects and experiments that I've done. There will be some of my personal information and my interests.
+Here, you'll find some of my proyects and experiments that I've done. There will be some of my personal information and my interests.
 
-<div align="center">
-    <picture align="center">
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-    </picture>
-
-    
-</div>
 
 <div align=center>
-    <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
-</div>
-<div align=center>
-    <img src="https://readme-typing-svg.herokuapp.com/demo/?font=Times+New+Roman&weight=500&size=30&duration=3500&pause=500&color=5E9A76&center=true&lines=Hi+there+I'm+Alex+%F0%9F%91%8B;Computer+Science+Student;Full-Stack+Engineer;Problem+Solver;Freelancer" alt="Headline" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=500&size=30&duration=3500&pause=500&color=5E9A76&center=true&width=435&lines=Hi+there+I'm+Alex+%F0%9F%91%8B;Computer+Science+Student;Full-Stack+Engineer;Problem+Solver;Freelancer" alt="Typing SVG" /></a>
 </div>
 
 
@@ -52,3 +38,12 @@ Here, you'll find all my proyects and experiments that I've done. There will be 
 ## Interests
 * [I love languages]
 * [⚡ Fun fact: ...]
+
+
+<div align="center">
+    <picture align="center">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+    </picture>    
+</div>
