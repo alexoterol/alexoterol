@@ -1,14 +1,12 @@
-
 <div align=center>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=500&size=30&duration=3500&pause=500&color=5E9A76&center=true&width=435&lines=Hi+there+I'm+Alex+%F0%9F%91%8B;Computer+Science+Student;Full-Stack+Engineer;Problem+Solver;Freelancer" alt="Typing SVG" /></a>
+    <a href="https://alexoterol.github.io/freelancer-portfolio-template/"><img src="https://i.pinimg.com/736x/b9/99/db/b999dbeecbadc0974952df49297e843b.jpg" alt="My banner" height="350"></a>
 </div>
 
 ---
 
 <div align=center>
-    <a href="https://alexoterol.github.io/freelancer-portfolio-template/"><img src="https://i.pinimg.com/736x/b9/99/db/b999dbeecbadc0974952df49297e843b.jpg" alt="My banner" height="350"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=500&size=30&duration=3500&pause=500&color=5E9A76&center=true&width=435&lines=Hi+there+I'm+Alex+%F0%9F%91%8B;Computer+Science+Student;Full-Stack+Engineer;Problem+Solver;Freelancer" alt="Typing SVG" /></a>
 </div>
-
 
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
@@ -29,7 +27,7 @@
             <li><strong>Career:</strong> Computer Science</li>
             <li><strong>Residence:</strong> Ecuador, Guayaquil</li>
             <li><strong>Website:</strong> <a href="https://alexoterol.github.io/freelancer-portfolio-template/" target="_blank">Thiss is my page</a></li>
-            <li><strong>How to reach me:</strong> 📫 <a href="mailto:alexoterolim@gmail.com">alexoterolim@gmail.com</a> & 
+            <li><strong>Contact me:</strong> 📫 <a href="mailto:alexoterolim@gmail.com">alexoterolim@gmail.com</a> & 
                 <a href="https://www.linkedin.com/in/alex-otero-limones-768957267/" target="_blank">LinkedIn</a></li>
         </ul>
     </div>
@@ -45,17 +43,7 @@
     </div>
 </div>
 
-
-
 ## Interests
 * I love languages and neuroscience
-* ⚡ I love balance in my life
-
-
-<div align="center">
-    <picture align="center">
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-    </picture>    
+* ⚡ I love balance in my life   
 </div>
