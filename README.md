@@ -12,54 +12,48 @@
 </div>
 
 ---
-<h2 align="center">🌐 Personal Portfolio</h2>
+<h2 style="text-align: center;">🌐 Personal Portfolio</h2>
 
-<table width="100%">
+<table width="100%" style="border-collapse: collapse;">
   <tr>
-    <td width="50%" valign="top">
-
-### 👤 Personal Information
-
-- **Name:** Alex Otero Limones  
-- **Career:** Computer Science  
-- **Location:** Ecuador, Guayaquil  
-- **Website:** [Visit my site](https://alexoterol.github.io/freelancer-portfolio-template/)  
-- **Contact:** [alexoterolim@gmail.com](mailto:alexoterolim@gmail.com)  
-- [LinkedIn](https://www.linkedin.com/in/alex-otero-limones-768957267/)
-
----
-
-### 📚 Scholar Growth
-
-- 🔭 Working on full-stack development  
-- 🌱 Learning data analytics & machine learning  
-- 👯 Collaborating on AI & open-source  
-- 🤝 Looking for community building opportunities  
-- 💬 Open for freelance work
-
-</td>
-<td width="50%" valign="top">
-
-### 🚀 Featured Projects
-
-#### 🧾 Curriculum Web from Scratch  
-A responsive website to showcase my professional profile.  
-**Tech:** HTML, CSS  
-🔗 [GitHub Repo](https://github.com/alexoterol/curriculum-web-from-scratch)
-
-#### 🍔 Food Detection Model  
-An AI model that classifies food in images using CV.  
-**Tech:** Python, TensorFlow, OpenCV  
-🔗 [GitHub Repo](https://github.com/alexoterol/food-detection-model)
-
-#### 🧠 Sudoku with AI  
-A Sudoku solver using AI with backtracking & A\*.  
-**Tech:** Python, Search Algorithms  
-🔗 [GitHub Repo](https://github.com/alexoterol/Sudoku)
-
-</td>
-</tr>
+    <td width="50%" valign="top" style="padding: 10px; vertical-align: top; border: 1px solid #ddd;">
+      <h3>👤 Personal Information</h3>
+      <ul>
+        <li><strong>Name:</strong> Alex Otero Limones</li>
+        <li><strong>Career:</strong> Computer Science</li>
+        <li><strong>Location:</strong> Ecuador, Guayaquil</li>
+        <li><strong>Website:</strong> <a href="https://alexoterol.github.io/freelancer-portfolio-template/">Visit my site</a></li>
+        <li><strong>Contact:</strong> <a href="mailto:alexoterolim@gmail.com">alexoterolim@gmail.com</a></li>
+        <li><a href="https://www.linkedin.com/in/alex-otero-limones-768957267/">LinkedIn</a></li>
+      </ul>
+        <hr style="margin: 1.5rem 0; border: none; border-top: 1px solid #ccc;" />
+      <h3>📚 Scholar Growth</h3>
+      <ul>
+        <li>🔭 Working on full-stack development</li>
+        <li>🌱 Learning data analytics & machine learning</li>
+        <li>👯 Collaborating on AI & open-source</li>
+        <li>🤝 Looking for community building opportunities</li>
+        <li>💬 Open for freelance work</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top" style="padding: 10px; vertical-align: top; border: 1px solid #ddd;">
+      <h3>🚀 Featured Projects</h3>
+      <h4>🧾 Curriculum Web from Scratch</h4>
+      <p>A responsive website to showcase my professional profile.</p>
+      <p><strong>Tech:</strong> HTML, CSS</p>
+      <a href="https://github.com/alexoterol/curriculum-web-from-scratch">GitHub Repo</a>
+      <h4>🍔 Food Detection Model</h4>
+      <p>An AI model that classifies food in images using computer vision.</p>
+      <p><strong>Tech:</strong> Python, TensorFlow, OpenCV</p>
+      <a href="https://github.com/alexoterol/food-detection-model">GitHub Repo</a>
+      <h4>🧠 Sudoku with AI</h4>
+      <p>A Sudoku solver using AI with backtracking and A* algorithms.</p>
+      <p><strong>Tech:</strong> Python, Search Algorithms</p>
+      <a href="https://github.com/alexoterol/Sudoku">GitHub Repo</a>
+    </td>
+  </tr>
 </table>
+
 
 ---
 
