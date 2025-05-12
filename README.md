@@ -12,98 +12,89 @@
 </div>
 
 ---
-<div style="display: flex; flex-wrap: wrap; font-family: Arial, sans-serif; line-height: 1.6;">
-    <div style="flex: 1; min-width: 300px; padding: 10px;">
-        <h2>Personal Information</h2>
-        <ul>
-            <li><strong>Name:</strong> Alex Otero Limones</li>
-            <li><strong>Career:</strong> Computer Science</li>
-            <li><strong>Residence:</strong> Ecuador, Guayaquil</li>
-            <li><strong>Website:</strong> <a href="https://alexoterol.github.io/freelancer-portfolio-template/" target="_blank">This is my page</a></li>
-            <li><strong>Contact me:</strong> 📫 <a href="mailto:alexoterolim@gmail.com">alexoterolim@gmail.com</a> & 
-                <a href="https://www.linkedin.com/in/alex-otero-limones-768957267/" target="_blank">LinkedIn</a></li>
-        </ul>
-    </div>
-    <div style="flex: 1; min-width: 300px; padding: 10px;">
-        <h2>Projects</h2>
-        <ul>
-            <section id="projects">
-              <h2>Featured Projects</h2>
-              <ul>
-                <li>
-                  <h3>Curriculum Web from Scratch</h3>
-                  <p>A personal website built from scratch using only HTML and CSS to showcase my professional profile.</p>
-                  <p><strong>Technologies:</strong> HTML, CSS</p>
-                  <a href="https://github.com/alexoterol/curriculum-web-from-scratch" target="_blank">View on GitHub</a>
-                </li>
-                <li>
-                  <h3>Food Detection Model</h3>
-                  <p>A computer vision model that detects and classifies food items in images using artificial intelligence.</p>
-                  <p><strong>Technologies:</strong> Python, TensorFlow, OpenCV</p>
-                  <a href="https://github.com/alexoterol/food-detection-model" target="_blank">View on GitHub</a>
-                </li>
-                <li>
-                  <h3>Sudoku with AI</h3>
-                  <p>A Sudoku solver powered by artificial intelligence, using search algorithms like backtracking and A*.</p>
-                  <p><strong>Technologies:</strong> Python, Search Algorithms</p>
-                  <a href="https://github.com/alexoterol/Sudoku" target="_blank">View on GitHub</a>
-                </li>
-              </ul>
-            </section
-        </ul>
-    </div>
-    <section id="technologies">
-  <h2>Technologies Used</h2>
-  <p>These are the main tools, languages, and platforms I have used throughout my projects, each applied in a practical context:</p>
+<h2 align="center">🌐 Personal Portfolio</h2>
 
-  <ul style="list-style-type: none; padding-left: 0;">
-    <li>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python Badge">
-      <p><strong>Python:</strong> Used as the main programming language for AI-based projects like the Food Detection Model and the Sudoku solver, including logic, algorithms, and data handling.</p>
-    </li>
-    <li>
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML Badge">
-      <p><strong>HTML:</strong> Used to structure the content of my personal website and portfolio, especially in the “Curriculum Web from Scratch” project.</p>
-    </li>
-    <li>
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff" alt="CSS Badge">
-      <p><strong>CSS:</strong> Styled and customized the look of the website to make it visually appealing and responsive.</p>
-    </li>
-    <li>
-      <img src="https://img.shields.io/badge/Java%20Script-F7DF1E?style=for-the-badge&logo=javascript&logoColor=ffffff" alt="JavaScript Badge">
-      <p><strong>JavaScript:</strong> Used to add interactivity and dynamic elements to my websites (e.g., toggles, animations, or interactive forms).</p>
-    </li>
-    <li>
-      <img src="https://img.shields.io/badge/Anki-80C2EE?style=for-the-badge&logo=anki&logoColor=ffffff" alt="Anki Badge">
-      <p><strong>Anki:</strong> Used for personal study and reinforcement of concepts in programming and AI through spaced repetition.</p>
-    </li>
-    <li>
-      <img src="https://img.shields.io/badge/Netbeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=ffffff" alt="NetBeans Badge">
-      <p><strong>NetBeans:</strong> Used as an IDE for Java-based exercises and early desktop application prototypes.</p>
-    </li>
-    <li>
-      <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff" alt="MySQL Badge">
-      <p><strong>MySQL:</strong> Used for managing structured data in some backend projects, including querying, relational modeling, and integration with Python.</p>
-    </li>
-  </ul>
-</section>
-    <div style="flex: 1; min-width: 300px; padding: 10px;">
-        <h2>Scholar Growth</h2>
-        <ul>
-            <li>🔭 I’m currently working on full-stack development</li>
-            <li>🌱 I’m currently learning data analytics and machine learning</li>
-            <li>👯 I’m looking to collaborate on AI and open-source projects</li>
-            <li>🤔 I’m looking for help with tech outreach and community building</li>
-            <li>💬 Ask me about projects to do together or freelance opportunities</li>
-        </ul>
-    </div>
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+
+### 👤 Personal Information
+
+- **Name:** Alex Otero Limones  
+- **Career:** Computer Science  
+- **Location:** Ecuador, Guayaquil  
+- **Website:** [Visit my site](https://alexoterol.github.io/freelancer-portfolio-template/)  
+- **Contact:** [alexoterolim@gmail.com](mailto:alexoterolim@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/alex-otero-limones-768957267/)
 
 ---
 
-## Interests
-* 🌍 I love exploring languages and neuroscience
-* 🎨 Passionate about design and user experience
-* ⚡ I believe in maintaining balance in life
-* 📚 Avid reader of tech and philosophy books
-* 🧠 Interested in cognitive science and AI ethics
+### 📚 Scholar Growth
+
+- 🔭 Working on full-stack development  
+- 🌱 Learning data analytics & machine learning  
+- 👯 Collaborating on AI & open-source  
+- 🤝 Looking for community building opportunities  
+- 💬 Open for freelance work
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Featured Projects
+
+#### 🧾 Curriculum Web from Scratch  
+A responsive website to showcase my professional profile.  
+**Tech:** HTML, CSS  
+🔗 [GitHub Repo](https://github.com/alexoterol/curriculum-web-from-scratch)
+
+#### 🍔 Food Detection Model  
+An AI model that classifies food in images using CV.  
+**Tech:** Python, TensorFlow, OpenCV  
+🔗 [GitHub Repo](https://github.com/alexoterol/food-detection-model)
+
+#### 🧠 Sudoku with AI  
+A Sudoku solver using AI with backtracking & A\*.  
+**Tech:** Python, Search Algorithms  
+🔗 [GitHub Repo](https://github.com/alexoterol/Sudoku)
+
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">🛠️ Technologies Used</h2>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff" alt="CSS">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=ffffff" alt="JS">
+  <img src="https://img.shields.io/badge/Anki-80C2EE?style=for-the-badge&logo=anki&logoColor=ffffff" alt="Anki">
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=ffffff" alt="NetBeans">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff" alt="MySQL">
+</p>
+
+<p align="center">
+  <em>
+    Python was used for implementing AI models and backend logic.  
+    HTML and CSS were used to build and style the structure of the portfolio website.  
+    JavaScript was used to add interactivity and dynamic behavior.  
+    Anki supported my personal learning with spaced repetition.  
+    NetBeans was used as the IDE for Java-based prototypes.  
+    MySQL helped manage relational data in backend projects.
+  </em>
+</p>
+
+---
+
+<h2 align="center">✨ Interests</h2>
+
+<div align="center">
+🌍 Languages & neuroscience  <br/>
+🎨 UX and design  <br/>
+⚡ Life balance  <br/>
+📚 Tech + philosophy books  <br/>
+🧠 Cognitive science & AI ethics<br/>
+</div>
