@@ -35,6 +35,15 @@
         </ul>
     </div>
     <div style="flex: 1; min-width: 300px; padding: 10px;">
+        <h2>Projects</h2>
+        <ul>
+            <li><a>https://github.com/alexoterol/curriculum-web-from-scratch</a></li>
+            <li><a>https://github.com/alexoterol/food-detection-model</a></li>
+            <li><a>https://github.com/alexoterol/Sudoku</a></li>
+
+        </ul>
+    </div>
+    <div style="flex: 1; min-width: 300px; padding: 10px;">
         <h2>Scholar Growth</h2>
         <ul>
             <li>🔭 I’m currently working on full-stack development</li>
