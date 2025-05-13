@@ -23,7 +23,7 @@
         <li><strong>Career:</strong> Computer Science</li>
         <li><strong>Location:</strong> Ecuador, Guayaquil</li>
         <li><strong>Website:</strong> <a href="https://alexoterol.github.io/freelancer-portfolio-template/">Visit my site</a></li>
-        <li><strong>Contact:</strong> <a href="mailto:alexoterolim@gmail.com">alexoterolim@gmail.com</a></li>
+        <li><strong>Contact:</strong> <a href="mailto:adotero@espol.edu.ec">adotero@espol.edu.ec</a></li>
         <li><a href="https://www.linkedin.com/in/alex-otero-limones-768957267/">LinkedIn</a></li>
       </ul>
         <hr style="margin: 1.5rem 0; border: none; border-top: 1px solid #ccc;" />
