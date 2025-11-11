@@ -20,8 +20,8 @@
       <h3>👤 Personal Information</h3>
       <ul>
         <li><strong>Name:</strong> Alex Otero Limones</li>
-        <li><strong>Career:</strong> Computer Science</li>
-        <li><strong>Location:</strong> Ecuador, Guayaquil</li>
+        <li><strong>Career:</strong> Computer Engineering</li>
+        <li><strong>Location:</strong> 🇪🇨 Ecuador 🇪🇨</li>
         <li><strong>Website:</strong> <a href="https://alexoterol.github.io/freelancer-portfolio-template/">Visit my site</a></li>
         <li><strong>Contact:</strong> <a href="mailto:adotero@espol.edu.ec">adotero@espol.edu.ec</a></li>
         <li><a href="https://www.linkedin.com/in/alex-otero-limones-768957267/">LinkedIn</a></li>
@@ -29,11 +29,17 @@
         <hr style="margin: 1.5rem 0; border: none; border-top: 1px solid #ccc;" />
       <h3>📚 Scholar Growth</h3>
       <ul>
-        <li>🔭 Working on full-stack development</li>
-        <li>🌱 Learning data analytics & machine learning</li>
-        <li>👯 Collaborating on AI & open-source</li>
-        <li>🤝 Looking for community building opportunities</li>
-        <li>💬 Open for freelance work</li>
+        <li>💻 Full-stack development in progress.</li>
+        <li>🧠 Have delivered Machine Learning projects.</li>
+        <li>📊 Data analytics challenges and professional works.</li>
+        <li>💡 Actively collaborating on AI and open-source code.</li>
+        <li>🔬 Passionate about technical research.</li>
+        <li>💼 Aspiring Technical Project Manager.</li>
+        <li>🤝 Seeking community building opportunities.</li>
+        <li>🔧 Curious about new technology and frameworks.</li>
+        <li>🤖 Code to control hardware and embedded systems.</li>
+        <li>🐧 Arch Linux enthusiast.</li>
+        <li>💬 Open for freelance work.</li>
       </ul>
     </td>
     <td width="50%" valign="top" style="padding: 10px; vertical-align: top; border: 1px solid #ddd;">
@@ -86,9 +92,25 @@
 <h2 align="center">✨ Interests</h2>
 
 <div align="center">
-🌍 Languages & neuroscience  <br/>
-🎨 UX and design  <br/>
-⚡ Life balance  <br/>
-📚 Tech + philosophy books  <br/>
-🧠 Cognitive science & AI ethics<br/>
+🌍 Languages & Neuroscience
+<br/>
+🎨 UX Design & Aesthetics
+<br/>
+🎬 3D Animation (Blender) & Motion Graphics
+<br/>
+🎮 Videogames (Design & Mechanics)
+<br/>
+📐 Mathematics & Theoretical Physics
+<br/>
+⚡ Life Balance & Productivity
+<br/>
+📚 Tech + Philosophy Books
+<br/>
+🧠 Cognitive Science & AI Ethics
+<br/>
+💡 Exploring new creative software and tools
 </div>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=alexoterol&style=flat-square&color=blue" alt="Profile views" />
+</p>
