@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://alexoterol.github.io/freelancer-portfolio-template/">
+    <a href="https://alexoterol.github.io/personal-web-portfolio/">
         <img src="https://i.pinimg.com/736x/b9/99/db/b999dbeecbadc0974952df49297e843b.jpg" alt="My banner" height="100%">
     </a>
 </div>
